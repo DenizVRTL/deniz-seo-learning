@@ -4,3 +4,8 @@ theme: minima
 
 author: "Deniz Gürsoy"
 lang: "tr"
+sass:
+  style: compressed
+
+include:
+  - assets
